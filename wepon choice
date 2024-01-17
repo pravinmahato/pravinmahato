@@ -1,0 +1,35 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int T;
+    cin >> T;
+
+    while (T--) {
+        int N;
+        cin >> N;
+
+        string spell;
+        cin >> spell;
+
+        int pos = -1;
+        for (int i = 0; i < N - 1; i++) {
+            if (spell[i] > spell[i + 1]) {
+                pos = i;
+                break;
+            }
+        }
+
+        if (pos != -1) {
+            // Delete the character at the identified position
+            spell.erase(pos, 1);
+        } else {
+            // If no character needs to be deleted, remove the last character
+            spell.pop_back();
+        }
+
+        cout << spell << endl;
+    }
+
+    return 0;
+}
