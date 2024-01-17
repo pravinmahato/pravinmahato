@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+	// your code goes here
+int x;
+cin>>x;
+
+int lastTwoDigit = x % 100;
+cout<<"k"<<(lastTwoDigit < 10 ? "0" : "")<<lastTwoDigit <<endl;
+return 0;
+}
