@@ -52,11 +52,11 @@ My studies have given me a solid foundation in computer science, and I love appl
 ---
 
 ## 🌐 Connect With Me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rupesh3433)
+[![Gmail]([https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white](https://mail.google.com/mail/u/0/#inbox))](mailto:prabinkumarmahato54@gmail.com)
+[![LinkedIn][(https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/prabin-kumar-mahato-116a60297/))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pravinmahato)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourserver)
 
 ---
-⭐️ From [rupesh3433](https://github.com/rupesh3433)
+⭐️ From [pravinmahato](https://github.com/pravinmahato)
